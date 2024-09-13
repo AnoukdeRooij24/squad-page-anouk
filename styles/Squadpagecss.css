@@ -53,8 +53,7 @@ body {
 }
 
 .grid {
-  display: grid;
-  grid-template-columns:repeat( auto-fit, minmax(1em, 1fr))
+  display: flex;
   /* Display flex werkt goed maar ik wil scrollen */
   justify-content: space-between;
   gap: 20px;
