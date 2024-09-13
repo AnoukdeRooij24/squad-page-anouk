@@ -56,10 +56,10 @@ body {
   display: flex;
   /* Display flex werkt goed maar ik wil scrollen */
   justify-content: space-between;
-  gap: 5em;
+  gap: 20px;
   margin-top: 20px;
 }
-
+  
 .grid-item {
   width: 22%;
 }
