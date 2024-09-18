@@ -13,6 +13,8 @@ We hebben de pagina mobile first gemaakt en vanuit daar responsive gemaakt.
 
 [Hier kan je onze squad page bekijken.](https://edu.nl/mt7ar)
 
+
+
 ## Layout
 
 ### Mobile
@@ -61,3 +63,5 @@ Op de desktop versie hoef je alleen over het kaartje te hoveren met je muis, dan
 
 
 ## Bronnen
+
+
