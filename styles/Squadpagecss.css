@@ -38,22 +38,24 @@ body {
 }
 
 .namen {
-  font-size: 16px;
-  color: #841D4C;
+  font-size: 18px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  color: #ffffff;
   margin-bottom: 10px;
 }
 
 .title {
-  font-size: 36px;
+  font-size: 70px;
   margin-bottom: 20px;
   font-weight: 600;
   color: #841D4C;
 }
 
 .description {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
   font-size: 18px;
   margin-bottom: 40px;
-  color: #841D4C;
+  color: #ffffff;
 }
 
 .grid {
@@ -71,6 +73,8 @@ body {
 
 .flip-card { 
   background-color: transparent;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  font-size: 18px;
   width: 250px;
   height: 200px;
   perspective: 1000px;
