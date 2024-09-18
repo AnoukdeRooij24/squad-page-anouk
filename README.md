@@ -1,6 +1,7 @@
 
 # Squad page
 Welkom op de Squad Page van Anouk, Kate & Stella!
+
 Verkorte link:    https://edu.nl/mt7ar
 
 
