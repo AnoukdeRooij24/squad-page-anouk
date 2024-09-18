@@ -4,9 +4,13 @@
   box-sizing: border-box;
   /*for the back of the animated boxes, do not edit!*/
 }
-
+@font-face {
+  font-family: "Nighty";
+  src: url('../assets/Nightydemo.otf');
+  src: url('../assets/Nightydemo.otf') format('embedded-opentype');
+}
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Nighty",'Segoe UI',Tahoma, Geneva, Verdana, sans-serif;
   background-color: #d1dcfc ;
   color: #F9F5E3;
   display: flex;
