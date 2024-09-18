@@ -13,6 +13,8 @@ We hebben de pagina mobile first gemaakt en vanuit daar responsive gemaakt.
 
 [Hier kan je onze squad page bekijken.](https://edu.nl/mt7ar)
 
+
+
 ## Layout
 
 ### Mobile
