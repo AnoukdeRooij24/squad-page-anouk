@@ -4,9 +4,13 @@
   box-sizing: border-box;
   /*for the back of the animated boxes, do not edit!*/
 }
-
+@font-face {
+  font-family: "Nighty";
+  src: url('../assets/Nightydemo.otf');
+  src: url('../assets/Nightydemo.otf') format('embedded-opentype');
+}
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Nighty",'Segoe UI',Tahoma, Geneva, Verdana, sans-serif;
   background-color: #d1dcfc ;
   color: #F9F5E3;
   display: flex;
@@ -34,22 +38,25 @@ body {
 }
 
 .namen {
-  font-size: 16px;
+  font-size: 30px; 
   color: #841D4C;
+  margin-top: 20px;
   margin-bottom: 10px;
 }
 
 .title {
-  font-size: 36px;
+  font-size: 100px;
   margin-bottom: 20px;
   font-weight: 600;
   color: #841D4C;
 }
 
 .description {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
   font-size: 18px;
+  margin-top: 20px;
   margin-bottom: 40px;
-  color: #841D4C;
+  color: #ffffff;
 }
 
 .grid {
@@ -67,6 +74,8 @@ body {
 
 .flip-card { 
   background-color: transparent;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  font-size: 18px;
   width: 250px;
   height: 200px;
   perspective: 1000px;
