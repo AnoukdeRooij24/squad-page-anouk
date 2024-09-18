@@ -48,3 +48,16 @@ Er staan twee kopjes op de website, onder het eerste kopje " mugshots " vind je 
 
 Onder het tweede kopje " Leer de AmstelCampus kennen " vind je kaartjes met foto's van handige en leuke locaties in en om het HvA. Als je op de Mobile versie klikt op een kaartje dan draait het kaartje om en kan je de informatie op de achterkant lezen. Met deze informatie weet je de locatie te vinden en wat er te doen is. Als je op een ander kaartje klikt dan draait het vorige kaartje weer terug.
 Op de desktop versie hoef je alleen over het kaartje te hoveren met je muis, dan draait het kaartje om en zodra je je muis weer van het kaartje afhaalt draait het weer terug.
+
+
+
+## Kenmerken
+
+### HTML
+
+### CSS
+
+
+
+
+## Bronnen
