@@ -38,14 +38,14 @@ body {
 }
 
 .namen {
-  font-size: 18px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
-  color: #ffffff;
+  font-size: 30px; 
+  color: #841D4C;
+  margin-top: 20px;
   margin-bottom: 10px;
 }
 
 .title {
-  font-size: 70px;
+  font-size: 100px;
   margin-bottom: 20px;
   font-weight: 600;
   color: #841D4C;
@@ -54,6 +54,7 @@ body {
 .description {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
   font-size: 18px;
+  margin-top: 20px;
   margin-bottom: 40px;
   color: #ffffff;
 }
