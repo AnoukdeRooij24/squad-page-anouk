@@ -62,7 +62,7 @@ body {
   
 .grid-item {
   width: 250px;
-  grid-template-columns:repeat( auto-fit, minmax(16em, 1fr)) 
+  grid-template-columns:repeat( auto-fit, minmax(16em, 1fr));
 }
 
 .flip-card { 
