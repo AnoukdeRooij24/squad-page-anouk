@@ -14,12 +14,30 @@ We hebben de pagina mobile first gemaakt en vanuit daar responsive gemaakt.
 [Hier kan je onze squad page bekijken.](https://edu.nl/mt7ar)
 
 ## Layout
+
+### Mobile
 We zijn begonnen met het ontwerpen voor een mobile scherm, hier kan je het eerste idee en het uiteindelijke ontwerp naast elkaar zien.
 
   *foto's worden nog geupdate worden als de webpagina geupdate wordt*
   
 ![image](https://github.com/user-attachments/assets/1ba3f3ed-2532-4b13-8daf-8070c8556b29) ![image](https://github.com/user-attachments/assets/a8c04370-90f8-4d64-bcf1-6191842c7f51)
 
+### Desktop
+Daarna hebben we het ontwerp uitgebreid naar een desktop versie, hieronder staan het eerste idee en het uiteindelijke ontwerp.
+
+  *foto's worden nog geupdate worden als de webpagina geupdate wordt*
+
+  
+![image](https://github.com/user-attachments/assets/92ba98f9-bd73-4413-9de0-c08fd1809425)
+![image](https://github.com/user-attachments/assets/7d78a03b-dfc6-468a-8eda-7cd0968777ec)
+
+
+### Figma
+
+In figma hebben we alle drie eigen ontwerpen gemaakt, uiteindelijk hebben we 1 ontwerp gepakt die ons het meest aansprak en zijn we daarop verder gaan ontwerpen. Hieronder kan je ons figma ontwerp zien.
+
+![image](https://github.com/user-attachments/assets/96ce4c3e-dbf4-444e-9324-878875d4838f)
+![image](https://github.com/user-attachments/assets/a4ac9950-3e08-4e8d-b51f-37e48ba39d5a)
 
 
 
