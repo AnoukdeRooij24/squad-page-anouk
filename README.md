@@ -2,12 +2,15 @@
 # Squad page
 Welkom op de Squad Page van Anouk, Kate & Stella!
 
-Verkorte link:    https://edu.nl/mt7ar
+## Inhoudsopgave
 
 
 
-De instructie van deze leertaak staan in de [INSTRUCTIONS.md](https://github.com/fdnd-task/your-tribe-squad-page/blob/main/docs/INSTRUCTIONS.md)
+## Inleiding 
+Het doel van deze website is om de squad te leren kennen, daarbij is het ook wel fijn om te weten waar je nou precies op school zit en wat er allemaal mogenliik is.
+Als je op een mugshot klikt dan kom je bij het visitekaartje van het betreffende persoon. 
+We hebben de pagina mobile first gemaakt en vanuit daar responsive gemaakt.
 
-## Licentie
+[Hier kan je onze squad page bekijken.](https://edu.nl/mt7ar)
 
-This project is licensed under the terms of the [MIT license](./LICENSE).
+
