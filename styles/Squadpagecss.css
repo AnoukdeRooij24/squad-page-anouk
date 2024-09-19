@@ -50,6 +50,19 @@ body {
   font-weight: 600;
   color: #841D4C;
   font-family: "Pacifico", cursive;
+  /* If the screen size is 601px or more, set the font-size of <div> to 80px */
+@media only screen and (min-width: 601px) {
+  div.example {
+    font-size: 100px;
+  }
+}
+
+/* If the screen size is 600px or less, set the font-size of <div> to 30px */
+@media only screen and (max-width: 600px) {
+  div.example {
+    font-size: 40px;
+  }
+}
 }
 
 .description {
