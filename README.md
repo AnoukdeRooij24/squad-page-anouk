@@ -67,7 +67,8 @@ De onofficiele header van onze pagina. Hier is de basis informatie over de websi
 
 Alle fotos en visitekaartjes van de squad.
 
-![image](https://github.com/user-attachments/assets/87f57e34-7cdc-4511-85cb-2fa775910d38)
+![image](https://github.com/user-attachments/assets/54d0e9dc-84a6-4fd9-9610-4d8d52b5ad8e)
+
 
 
 Vanaf hier begint de tour van de AmstelCampus. Hier is ook een voorbeeld van de HTML van de voor en achterkant van de foto kaartjes.
