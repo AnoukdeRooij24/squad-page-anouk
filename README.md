@@ -83,4 +83,4 @@ Vanaf hier begint de tour van de AmstelCampus. Hier is ook een voorbeeld van de 
 
 ## Bronnen
 
-
+[Website van de achtergrond foto](https://www.freepik.com/images)
