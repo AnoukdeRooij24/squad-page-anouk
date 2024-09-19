@@ -3,7 +3,11 @@
 Welkom op de Squad Page van Anouk, Kate & Stella!
 
 ## Inhoudsopgave
-[inleiding](#inleiding)
+[Inleiding](#inleiding)
+[Layout](#layout)
+[Gebruik](#gebruik)
+[Kenmerken](#kenmerken)
+[Bronnen](#bronnen)
 
 
 ## Inleiding 
