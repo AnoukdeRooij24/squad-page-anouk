@@ -26,7 +26,8 @@ We zijn begonnen met het ontwerpen voor een mobile scherm, hier kan je het eerst
 
   *foto's moeten nog geupdate worden als de webpagina geupdate wordt*
   
-![image](https://github.com/user-attachments/assets/1ba3f3ed-2532-4b13-8daf-8070c8556b29) ![image](https://github.com/user-attachments/assets/a8c04370-90f8-4d64-bcf1-6191842c7f51)
+![image](https://github.com/user-attachments/assets/1ba3f3ed-2532-4b13-8daf-8070c8556b29) ![image](https://github.com/user-attachments/assets/b45120c6-20c8-4ac8-abd6-c1ef9eedca18)
+
 
 ### Desktop
 Daarna hebben we het ontwerp uitgebreid naar een desktop versie, hieronder staat het eerste idee en het uiteindelijke ontwerp.
