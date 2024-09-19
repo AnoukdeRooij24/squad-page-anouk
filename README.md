@@ -24,7 +24,6 @@ We hebben de pagina mobile first gemaakt en vanuit daar responsive gemaakt.
 ### Mobile
 We zijn begonnen met het ontwerpen voor een mobile scherm, hier kan je het eerste idee en het uiteindelijke ontwerp naast elkaar zien.
 
-  *foto's moeten nog geupdate worden als de webpagina geupdate wordt*
   
 ![image](https://github.com/user-attachments/assets/1ba3f3ed-2532-4b13-8daf-8070c8556b29) ![image](https://github.com/user-attachments/assets/d424a25e-f8f1-4fe4-a45a-afd00a52907c)![image](https://github.com/user-attachments/assets/52885e86-3d3d-479a-afdf-e4faa5343713)
 
@@ -34,11 +33,11 @@ We zijn begonnen met het ontwerpen voor een mobile scherm, hier kan je het eerst
 ### Desktop
 Daarna hebben we het ontwerp uitgebreid naar een desktop versie, hieronder staat het eerste idee en het uiteindelijke ontwerp.
 
-  *foto's moeten nog geupdate worden als de webpagina geupdate wordt*
-
   
 ![image](https://github.com/user-attachments/assets/92ba98f9-bd73-4413-9de0-c08fd1809425)
-![image](https://github.com/user-attachments/assets/7d78a03b-dfc6-468a-8eda-7cd0968777ec)
+![image](https://github.com/user-attachments/assets/3db51e94-493e-410b-b64b-8a80782441e3)
+![image](https://github.com/user-attachments/assets/a511fc41-265d-418e-bb4d-a36aba435d82)
+
 
 
 ### Figma
