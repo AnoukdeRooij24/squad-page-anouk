@@ -67,7 +67,7 @@ De onofficiele header van onze pagina. Hier is de basis informatie over de websi
 ![image](https://github.com/user-attachments/assets/921c5775-e937-48a2-a9db-029e3d440e39)
 
 
-Alle fotos en visitekaartjes van de squad.
+Alle foto's en visitekaartjes van de squad.
 
 ![image](https://github.com/user-attachments/assets/54d0e9dc-84a6-4fd9-9610-4d8d52b5ad8e)
 
