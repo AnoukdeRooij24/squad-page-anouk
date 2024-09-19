@@ -26,7 +26,8 @@ We zijn begonnen met het ontwerpen voor een mobile scherm, hier kan je het eerst
 
   *foto's moeten nog geupdate worden als de webpagina geupdate wordt*
   
-![image](https://github.com/user-attachments/assets/1ba3f3ed-2532-4b13-8daf-8070c8556b29) ![image](https://github.com/user-attachments/assets/d424a25e-f8f1-4fe4-a45a-afd00a52907c)
+![image](https://github.com/user-attachments/assets/1ba3f3ed-2532-4b13-8daf-8070c8556b29) ![image](https://github.com/user-attachments/assets/d424a25e-f8f1-4fe4-a45a-afd00a52907c)![image](https://github.com/user-attachments/assets/52885e86-3d3d-479a-afdf-e4faa5343713)
+
 
 
 
