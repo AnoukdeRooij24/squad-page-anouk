@@ -60,15 +60,21 @@ Op de desktop versie hoef je alleen over het kaartje te hoveren met je muis, dan
 ## Kenmerken
 
 ### HTML
-![image](https://github.com/user-attachments/assets/921c5775-e937-48a2-a9db-029e3d440e39)
 De onofficiele header van onze pagina. Hier is de basis informatie over de website te vinden.
 
+![image](https://github.com/user-attachments/assets/921c5775-e937-48a2-a9db-029e3d440e39)
+
+
+Alle fotos en visitekaartjes van de squad.
 
 ![image](https://github.com/user-attachments/assets/87f57e34-7cdc-4511-85cb-2fa775910d38)
-alle fotos en visitekaartjes van de squad
+
+
+Vanaf hier begint de tour van de AmstelCampus. Hier is ook een voorbeeld van de HTML van de voor en achterkant van de foto kaartjes.
 
 ![image](https://github.com/user-attachments/assets/b3423963-cff5-40a4-adbb-e75934de8027)
-vanaf hier begint de tour van de amstelcampus. Hier is ook een voorbeeld van de HTML van de voor en achterkant van de foto kaartjes.
+
+
 ### CSS
 
 
