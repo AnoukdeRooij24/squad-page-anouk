@@ -80,9 +80,10 @@ Vanaf hier begint de tour van de AmstelCampus. Hier is ook een voorbeeld van de 
 
 ### CSS
 
+De font die we hebben gebruikt voor onze Titel en naamplaatje : https://www.dafont.com/pacifico.font
 
-
-
+Onze kleurpalette voor dit website is: rgba(216,140,154, 0.6) , #841D4C , #99C1B9 , #d1dcfc. 
+ 
 ## Bronnen
 
 [Website van de achtergrond foto](https://www.freepik.com/images)
